@@ -1,0 +1,106 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="GlobalAntConfiguration">
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://C:/EPO/APPS/Apache/apache-ant-1.9.2/lib" />
+        </classpath>
+        <homeDir value="C:\EPO\APPS\Apache\apache-ant-1.9.2" />
+        <name value="Apache Ant version 1.9.2" />
+        <version value="1.9.2" />
+      </ant>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://C:/EPO/APPS/Apache/ant1_4/lib" />
+        </classpath>
+        <homeDir value="C:\EPO\APPS\Apache\ant1_4" />
+        <name value="Apache Ant version 1.4.1" />
+        <version value="1.4.1" />
+      </ant>
+    </registeredAnts>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="EXTRACT_INTERFACE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://kdclba0001.ds.acc.co.nz/svn/mfp/branches/BAU16_03/mfp-main">
+          <value>
+            <set>
+              <option value="C:\VIAN\Projects\ACC\MFP\BAU16_03\mfp-main" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://10.195.1.25:4580&amp;^%$#@wasadmin@#$%^&amp;http://buildserver&amp;^%$#@wasadmin@#$%^&amp;http://127.0.0.1:4580&amp;^%$#@wasadmin@#$%^&amp;http://localhost:4580&amp;^%$#@wasadmin" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
