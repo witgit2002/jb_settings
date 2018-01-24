@@ -1,5 +1,12 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="true" />
+    <option name="FORCE_CLASSIC_VM" value="true" />
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+    <option name="SKIP_SYNTHETIC_METHODS" value="true" />
+    <option name="SKIP_CLASSLOADERS" value="true" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -56,14 +63,12 @@
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
     </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>

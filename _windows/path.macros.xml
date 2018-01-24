@@ -1,0 +1,7 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="IPS2_HOME" value="C:/VIAN/Projects/ACC/ips2/andreev_IPS2_CMS35106_2/IPS2/ips2" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\AndreeV\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\173.4301.25\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/AndreeV/.m2/repository" />
+  </component>
+</application>
