@@ -64,7 +64,7 @@
       <option name="schema-control" value="MANUAL" />
     </driver>
     <driver id="hsqldb.remote">
-      <artifact name="HSQLDB" use="true" version="2.4.0" />
+      <artifact name="HSQLDB" rolling="false" use="true" version="2.3.2" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
