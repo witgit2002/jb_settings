@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="GT01 - Generic Letter Templates_25368843" type="PLAIN_TEXT" />
     </extensionMap>
